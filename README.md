@@ -17,4 +17,4 @@ A simple Python project that analyzes text files and provides statistics such as
 4. Run:
 
 ```bash
-python analyzer.py
+<pre> ```bash python analyzer.py ``` </pre>
