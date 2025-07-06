@@ -16,5 +16,4 @@ A simple Python project that analyzes text files and provides statistics such as
 3. Place your `.txt` file in the folder or provide full path when prompted.
 4. Run:
 
-```bash
 <pre> ```bash python analyzer.py ``` </pre>
