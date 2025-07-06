@@ -1,0 +1,4 @@
+This is a sample file. It contains some text.
+You can add multiple sentences and paragraphs.
+
+This is a new paragraph. It helps test the analyzer script.
